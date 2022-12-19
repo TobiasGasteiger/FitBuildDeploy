@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FitBuildDeploy/static/css/main.16752179.css",
-    "main.js": "/FitBuildDeploy/static/js/main.8819931b.js",
-    "static/media/IMG_20221022_134209.jpg": "/FitBuildDeploy/static/media/IMG_20221022_134209.ceb6a8d4cd21ee2f26bd.jpg",
-    "index.html": "/FitBuildDeploy/index.html",
-    "main.16752179.css.map": "/FitBuildDeploy/static/css/main.16752179.css.map",
-    "main.8819931b.js.map": "/FitBuildDeploy/static/js/main.8819931b.js.map"
+    "main.css": "/static/css/main.16752179.css",
+    "main.js": "/static/js/main.3a5b5159.js",
+    "static/media/IMG_20221022_134209.jpg": "/static/media/IMG_20221022_134209.ceb6a8d4cd21ee2f26bd.jpg",
+    "index.html": "/index.html",
+    "main.16752179.css.map": "/static/css/main.16752179.css.map",
+    "main.3a5b5159.js.map": "/static/js/main.3a5b5159.js.map"
   },
   "entrypoints": [
     "static/css/main.16752179.css",
-    "static/js/main.8819931b.js"
+    "static/js/main.3a5b5159.js"
   ]
 }
